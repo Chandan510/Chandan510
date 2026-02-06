@@ -1,83 +1,29 @@
-# Hi, I'm Chandan 👋
+# Hi, I'm Chandan Suthar 👋
 
-🚀 **Full-Stack Developer** | React • Node.js • APIs  
-🤖 Exploring **AI, Automation & Scalable Products**
+A 3rd year B.Tech student with expertise in 🚀 Full-Stack development   
+🤖 Interested in AI-ML & businessautomation workflows
 
-I enjoy building real-world software — from clean frontends to reliable backends — and lately I’ve been working with AI tools and automation workflows to solve practical business problems.
-
----
-
-## 🧠 What I Do
-
-- Build **production-ready web applications**
-- Design **REST APIs & backend systems**
-- Create **AI-powered tools & automations**
-- Turn ideas into **usable MVPs**
-
-I learn best by **building and shipping**, not just tutorials.
+I've experience in building all types of tech products from mobile app to desktop applications.
 
 ---
 
-## 🛠 Tech Stack
-
-**Frontend**
-- React.js, React Native (basic)
-- HTML, CSS, JavaScript
-
-**Backend**
-- Node.js, Express.js
-- REST APIs
-
-**Database**
-- MongoDB, SQL
-
-**AI / Automation**
-- Langflow
-- n8n
-- Model APIs (OpenAI, etc.)
-
-**Tools**
-- Git & GitHub
-- Postman
-- Basic Docker (learning)
+## 🛠 Tech
+Frontend: React • React Native • Next JS • Tailwind CSS
+Backend:  Node.js • Django • FastAPI • MongoDB • PostgreSQL • REST APIs
+AI & Modern tools: Huggingface • LangChain • n8n
+DevOps: Git • Docker • Vercel
 
 ---
 
-## 📌 Featured Work
-
-Check out my pinned repositories below 👇  
-They include:
-- Full-stack applications
-- AI & automation experiments
-- Real-world problem-solving projects
-
-Each project has a detailed README explaining **why it exists, how it works, and what I learned**.
+## 📌 Projects
+Check my pinned repositories below for:
+- Full-stack applications  
+- AI & automation experiments  
+- Real-world problem-solving projects  
 
 ---
 
-## 📈 What I'm Improving Right Now
-
-- Backend architecture & scalability
-- Clean code & project structure
-- AI workflow design
-- System design fundamentals
-
----
-
-## 🤝 Open To
-
-- Internships / entry-level full-stack roles  
-- AI & automation projects  
-- Startup collaborations
-
----
-
-## 📫 Let’s Connect
-
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: **linkedin.com/in/your-profile**
-- 🌐 Portfolio: *(if available)*
-
----
-
-⭐ If you find my work interesting, feel free to explore or reach out.
+## 📫 Contact
+📧 chandansuthar510@gmail.com  
+💼 www.linkedin.com/in/chandan-suthar-613054219
+🖥 https://chandansuthar.me/
