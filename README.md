@@ -16,10 +16,16 @@ DevOps: Git • Docker • Vercel
 ---
 
 ## 📌 Projects
-Check my pinned repositories below for:
-- Full-stack applications  
-- AI & automation experiments  
-- Real-world problem-solving projects  
+
+### 🧑‍💻 Employee Monitoring & Productivity Desktop App
+- Built a **cross-platform desktop application** using **Electron.js**
+- Monitored **mouse & keyboard activity** to calculate active work time
+- Developed a **Chrome extension** to track browser usage and history
+- Provided productivity insights based on user activity patterns  
+
+
+Check my pinned repositories for more projects  
+
 
 ---
 
