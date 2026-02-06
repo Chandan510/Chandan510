@@ -8,10 +8,10 @@ I've experience in building all types of tech products from mobile app to deskto
 ---
 
 ## 🛠 Tech
-Frontend: React • React Native • Next JS • Tailwind CSS
-Backend:  Node.js • Django • FastAPI • MongoDB • PostgreSQL • REST APIs
-AI & Modern tools: Huggingface • LangChain • n8n
-DevOps: Git • Docker • Vercel
+Frontend: React • React Native • Next JS • Tailwind CSS  
+Backend:  Node.js • Django • FastAPI • MongoDB • PostgreSQL • REST APIs  
+AI & Modern tools: Huggingface • LangChain • n8n  
+DevOps: Git • Docker • Vercel  
 
 ---
 
@@ -25,5 +25,5 @@ Check my pinned repositories below for:
 
 ## 📫 Contact
 📧 chandansuthar510@gmail.com  
-💼 www.linkedin.com/in/chandan-suthar-613054219
+💼 www.linkedin.com/in/chandan-suthar-613054219  
 🖥 https://chandansuthar.me/
